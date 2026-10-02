@@ -1,0 +1,33 @@
+state,abbr,law,who_it_covers,what_it_requires,starts,source_urls
+Colorado,CO,SB 26-189,Any business that uses AI or automated tools to help make big decisions about people,"Post a clear notice before you use it. If someone gets a “no,” explain why within 30 days and let them fix wrong data and ask for a human review where that’s reasonable. Keep records 3 years.","Jan 1, 2027",https://legiscan.com/CO/bill/SB189/2026
+Texas,TX,HB 149 (TRAIGA),Anyone who builds or uses AI in Texas,"Don’t use AI meant to push people to self-harm or crime, to discriminate on purpose, to violate constitutional rights, or to make sexual deepfakes of kids. Health providers must tell patients about AI use.","Jan 1, 2026",https://legiscan.com/TX/bill/HB149/2025
+Utah,UT,SB 226,Businesses using generative AI with customers,"If a customer clearly asks whether they’re talking to AI, say so. Licensed professions (like health care or accounting) must say it up front in high-risk conversations.","May 7, 2025",https://legiscan.com/UT/bill/SB0226/2025
+Maine,ME,LD 1727,Any business using a chatbot with customers,"If a person could mistake your chatbot for a human, tell them clearly that it isn’t one.",2025,https://legiscan.com/ME/bill/LD1727/2025
+Connecticut,CT,SB 5 (Public Act 26-15),"Employers using AI tools to hire, promote, discipline or fire","Tell applicants and workers in plain language when they’re dealing with an AI hiring tool, and give written notice before the tool helps decide about them.","Oct 1, 2027",https://legiscan.com/CT/bill/SB00005/2026
+Illinois,IL,HB 3773 (2024),Illinois employers,"Don’t use AI that discriminates in hiring, promotion or firing, don’t use ZIP codes as a stand-in for race, and tell workers when you use AI for these decisions.","Jan 1, 2026",https://legiscan.com/IL/bill/HB3773/2023
+California,CA,SB 947 (Ch. 859),Employers of every size,"Don’t rely only on an automated decision system to discipline or fire a worker. If you mainly relied on one, a person has to review it. Give the worker a written notice afterward.","July 1, 2027",https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB947
+California,CA,SB 951 (Ch. 860),Employers already covered by Cal/WARN,"If a mass layoff, relocation, or termination is caused in whole or in large part by AI or other automated technology, say so in the notice and include details about the jobs and the system.","Jan 1, 2027",https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB951
+California,CA,AB 325,Businesses and landlords using shared pricing software,Don’t use pricing software fed with competitors’ data as part of a deal to fix prices.,"Jan 1, 2026",https://legiscan.com/CA/bill/AB325/2025
+New York,NY,S 3008 (Part X),Businesses that price using a customer’s personal data,Show “THIS PRICE WAS SET BY AN ALGORITHM USING YOUR PERSONAL DATA.”,Nov 2025,https://legiscan.com/NY/bill/S03008/2025
+New York,NY,S 7882,Landlords,No rent-setting software that pools other landlords’ data.,Dec 2025,https://legiscan.com/NY/bill/S07882/2025
+Connecticut,CT,HB 8002,Landlords,No “revenue management” software fed with other landlords’ private data.,"Jan 1, 2026",https://legiscan.com/CT/bill/HB08002/2025
+Connecticut,CT,SB 4,"Retail stores, food sellers, delivery apps; online sellers",No surveillance pricing for stores and delivery apps; others must label it.,"July 1, 2027",https://legiscan.com/CT/bill/SB00004/2026
+Maryland,MD,HB 895,Large food stores and delivery apps,Can’t charge one shopper more for groceries using personal data.,"Oct 1, 2026",https://legiscan.com/MD/bill/HB895/2026
+New Jersey,NJ,A 3497,Landlords,No rent “coordinator” software or rent coordination.,"July 1, 2027",https://legiscan.com/NJ/bill/A3497/2026
+New Jersey,NJ,A 4085,Grocery and household-goods sellers,No surveillance pricing; one-year pause on new electronic shelf labels.,"Feb 1 / Aug 1, 2027",https://legiscan.com/NJ/bill/A4085/2026
+California,CA,AB 723,Real estate agents and brokers,"If a listing photo was digitally altered (including with AI), say so and post the original online.","Jan 1, 2026",https://legiscan.com/CA/bill/AB723/2025
+California,CA,AB 2025,Landlords and anyone listing a rental,Same rule for rental listings.,2027,https://legiscan.com/CA/bill/AB2025/2025
+California,CA,SB 1050,Any business running ads,"If an ad prominently features an AI-made “synthetic performer,” disclose it clearly.",2027,https://legiscan.com/CA/bill/SB1050/2025
+New York,NY,S 8420,Any business running ads,"Disclose AI-made synthetic performers in ads. $1,000 first violation, $5,000 after.",June 2026,https://legiscan.com/NY/bill/S08420/2025
+Illinois,IL,HB 1806,Therapists and mental health practices,AI can’t do therapy; admin use OK; consent to AI recording.,"Aug 1, 2025",https://legiscan.com/IL/bill/HB1806/2025
+Nevada,NV,AB 406,Mental health providers,AI can’t deliver care directly; can’t market AI as a therapist.,2025,https://legiscan.com/NV/bill/AB406/2025
+Maine,ME,LD 2082,Mental health providers,Illinois-style limits.,2026,https://legiscan.com/ME/bill/LD2082/2025
+Colorado,CO,HB 1195,Mental health providers,Illinois-style limits plus consent to AI recording.,2026,https://legiscan.com/CO/bill/HB1195/2026
+Rhode Island,RI,H 7349,Mental health providers,Illinois-style limits.,2026,https://legiscan.com/RI/bill/H7349/2026
+Vermont,VT,H 816,Mental health professionals,Breaking the AI rules is unprofessional conduct.,2026,https://legiscan.com/VT/bill/H0816/2025
+Tennessee,TN,HB 1470,Anyone advertising AI,Can’t advertise AI as a mental health professional.,"July 1, 2026",https://legiscan.com/TN/bill/HB1470/2025
+Utah,UT,HB 452,Anyone offering a mental health chatbot,"Say it’s AI, label ads, don’t sell users’ health data.","May 7, 2025",https://legiscan.com/UT/bill/HB0452/2025
+California,CA,AB 489,Health businesses and AI sellers,AI can’t use titles that suggest a licensed health professional.,2026,https://legiscan.com/CA/bill/AB489/2025
+California,CA,AB 3030 (2024),Clinics and doctors’ offices,Label unreviewed AI-written patient messages and offer a way to reach a person.,In force,https://legiscan.com/CA/bill/AB3030/2023
+Rhode Island,RI,H 7538,Health care providers,"Tell patients if AI documents the visit, and review the notes.","June 22, 2026",https://legiscan.com/RI/bill/H7538/2026
+Texas,TX,SB 1188,Health care practitioners,"Use AI in diagnosis only within your license, review AI records, tell patients.","Sept 1, 2025",https://legiscan.com/TX/bill/SB1188/2025

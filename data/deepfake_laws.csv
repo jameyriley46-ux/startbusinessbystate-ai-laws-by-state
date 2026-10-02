@@ -1,0 +1,82 @@
+state,abbr,category,law,year,note,source_url
+Texas,TX,election,SB 751,2019,,https://legiscan.com/TX/bill/SB751/2019
+California,CA,election,AB 730,2019,,https://legiscan.com/CA/bill/AB730/2019
+California,CA,election,AB 972,2022,,https://legiscan.com/CA/bill/AB972/2021
+California,CA,election,AB 2355,2024,AI disclosure on political ads,https://legiscan.com/CA/bill/AB2355/2023
+California,CA,election,AB 2839,2024,"struck down in court, Aug 2025",https://legiscan.com/CA/bill/AB2839/2023
+California,CA,election,AB 2655,2024,"struck down in court, Aug 2025",https://legiscan.com/CA/bill/AB2655/2023
+California,CA,election,AB 502,2026,,https://legiscan.com/CA/bill/AB502/2025
+Minnesota,MN,election,HF 1370,2023,,https://legiscan.com/MN/bill/HF1370/2023
+Minnesota,MN,election,HF 4772,2024,,https://legiscan.com/MN/bill/HF4772/2023
+Washington,WA,election,SB 5152,2023,,https://legiscan.com/WA/bill/SB5152/2023
+Michigan,MI,election,HB 5141,2023,,https://legiscan.com/MI/bill/HB5141/2023
+Michigan,MI,election,HB 5144,2023,,https://legiscan.com/MI/bill/HB5144/2023
+Wisconsin,WI,election,AB 664,2024,,https://legiscan.com/WI/bill/AB664/2023
+New Hampshire,NH,election,HB 1596,2024,,https://legiscan.com/NH/bill/HB1596/2024
+Florida,FL,election,HB 919,2024,,https://legiscan.com/FL/bill/H0919/2024
+Indiana,IN,election,HB 1133,2024,,https://legiscan.com/IN/bill/HB1133/2024
+Hawaii,HI,election,SB 2687 (Act 191),2024,"blocked by a federal court, Jan 2026",https://legiscan.com/HI/bill/SB2687/2024
+Arizona,AZ,election,SB 1359,2024,,https://legiscan.com/AZ/bill/SB1359/2024
+Arizona,AZ,election,HB 2394,2024,,https://legiscan.com/AZ/bill/HB2394/2024
+Colorado,CO,election,HB24-1147,2024,,https://legiscan.com/CO/bill/HB1147/2024
+Alabama,AL,election,HB 172,2024,,https://legiscan.com/AL/bill/HB172/2024
+Idaho,ID,election,H 664,2024,,https://legiscan.com/ID/bill/H0664/2024
+Delaware,DE,election,HB 316,2024,,https://legiscan.com/DE/bill/HB316/2023
+New York,NY,election,S 9678,2024,,https://legiscan.com/NY/bill/S09678/2023
+New York,NY,election,"2024-25 budget, Part MM",2024,,https://legiscan.com/NY/bill/A08808/2023
+Oregon,OR,election,SB 1571,2024,,https://legiscan.com/OR/bill/SB1571/2024
+Mississippi,MS,election,SB 2577,2024,,https://legiscan.com/MS/bill/SB2577/2024
+New Mexico,NM,election,HB 182,2024,,https://legiscan.com/NM/bill/HB182/2024
+Utah,UT,election,SB 131,2024,,https://legiscan.com/UT/bill/SB0131/2024
+Nevada,NV,election,AB 73,2025,,https://legiscan.com/NV/bill/AB73/2025
+Montana,MT,election,SB 25,2025,,https://legiscan.com/MT/bill/SB25/2025
+South Dakota,SD,election,SB 164,2025,,https://legiscan.com/SD/bill/SB164/2025
+Rhode Island,RI,election,H 5872 / S 816,2025,,https://legiscan.com/RI/bill/H5872/2025
+Kentucky,KY,election,SB 4,2025,,https://legiscan.com/KY/bill/SB4/2025
+North Dakota,ND,election,HB 1167,2025,,https://legiscan.com/ND/bill/HB1167/2025
+Vermont,VT,election,S 23,2026,,https://legiscan.com/VT/bill/S0023/2025
+Maine,ME,election,LD 517,2026,,https://legiscan.com/ME/bill/LD517/2025
+Tennessee,TN,election,HB 1513 / SB 1624,2026,,https://legiscan.com/TN/bill/HB1513/2025
+Maryland,MD,election,SB 141,2026,,https://legiscan.com/MD/bill/SB141/2026
+Louisiana,LA,election,HB 459,2026,,https://legiscan.com/LA/bill/HB459/2026
+Louisiana,LA,election,HB 639,2026,AI robocalls,https://legiscan.com/LA/bill/HB639/2026
+New York,NY,sexual,S 1042,2023,,https://legiscan.com/NY/bill/S01042/2023
+Illinois,IL,sexual,HB 2123,2023,,https://legiscan.com/IL/bill/HB2123/2023
+Illinois,IL,sexual,SB 382,2023,,https://legiscan.com/IL/bill/SB0382/2023
+Minnesota,MN,sexual,HF 1370,2023,,https://legiscan.com/MN/bill/HF1370/2023
+Texas,TX,sexual,SB 1361,2023,,https://legiscan.com/TX/bill/SB1361/2023
+Texas,TX,sexual,HB 3133,2025,,https://legiscan.com/TX/bill/HB3133/2025
+Texas,TX,sexual,SB 1621,2025,,https://legiscan.com/TX/bill/SB1621/2025
+Louisiana,LA,sexual,SB 175,2023,,https://legiscan.com/LA/bill/SB175/2023
+Louisiana,LA,sexual,HB 119,2026,,https://legiscan.com/LA/bill/HB119/2026
+Louisiana,LA,sexual,SB 42,2026,,https://legiscan.com/LA/bill/SB42/2026
+Louisiana,LA,sexual,SB 110,2026,,https://legiscan.com/LA/bill/SB110/2026
+Indiana,IN,sexual,HB 1047,2024,,https://legiscan.com/IN/bill/HB1047/2024
+Idaho,ID,sexual,H 575,2024,,https://legiscan.com/ID/bill/H0575/2024
+Idaho,ID,sexual,H 727,2026,,https://legiscan.com/ID/bill/H0727/2026
+Tennessee,TN,sexual,HB 2163 / SB 2668,2024,,https://legiscan.com/TN/bill/HB2163/2023
+Tennessee,TN,sexual,SB 1346 / HB 1299,2025,,https://legiscan.com/TN/bill/SB1346/2025
+Delaware,DE,sexual,HB 353,2024,,https://legiscan.com/DE/bill/HB353/2023
+Nebraska,NE,sexual,LB 383,2025,,https://legiscan.com/NE/bill/LB383/2025
+Michigan,MI,sexual,HB 4047 / HB 4048,2025,,https://legiscan.com/MI/bill/HB4047/2025
+West Virginia,WV,sexual,SB 198,2025,,https://legiscan.com/WV/bill/SB198/2025
+California,CA,sexual,AB 621,2025,,https://legiscan.com/CA/bill/AB621/2025
+Montana,MT,sexual,SB 413,2025,,https://legiscan.com/MT/bill/SB413/2025
+Arkansas,AR,sexual,HB 1529,2025,,https://legiscan.com/AR/bill/HB1529/2025
+Arkansas,AR,sexual,HB 1877,2025,,https://legiscan.com/AR/bill/HB1877/2025
+Wyoming,WY,sexual,HB 102,2026,,https://legiscan.com/WY/bill/HB0102/2026
+New Hampshire,NH,fraud_likeness_other,HB 1432,2024,Bans certain harmful uses of deepfakes and lets victims sue,https://legiscan.com/NH/bill/HB1432/2024
+Tennessee,TN,fraud_likeness_other,"HB 2091, ELVIS Act",2024,Protects a person's voice and likeness from AI copies,https://legiscan.com/TN/bill/HB2091/2023
+Illinois,IL,fraud_likeness_other,HB 4875,2024,Right-of-publicity law updated for AI copies of recording artists,https://legiscan.com/IL/bill/HB4875/2023
+California,CA,fraud_likeness_other,AB 1836 and AB 2602,2024,Contracts and consent for digital replicas of performers,https://legiscan.com/CA/bill/AB2602/2023
+California,CA,fraud_likeness_other,AB 723,2025,Real estate ads must disclose digitally altered photos,https://legiscan.com/CA/bill/AB723/2025
+California,CA,fraud_likeness_other,SB 1050,2026,False advertising rules for synthetic performers,https://legiscan.com/CA/bill/SB1050/2025
+California,CA,fraud_likeness_other,AB 2025,2026,Rental listing photos,https://legiscan.com/CA/bill/AB2025/2025
+New Jersey,NJ,fraud_likeness_other,A 3540,2025,Criminal penalties for making or sharing deceptive deepfakes,https://legiscan.com/NJ/bill/A3540/2024
+Pennsylvania,PA,fraud_likeness_other,SB 649 (Act 35),2025,"New crime of ""digital forgery""",https://legiscan.com/PA/bill/SB649/2025
+Utah,UT,fraud_likeness_other,SB 271,2025,Unauthorized AI copies of a person's likeness or voice,https://legiscan.com/UT/bill/SB0271/2025
+Arkansas,AR,fraud_likeness_other,HB 1071,2025,AI copies of a person's likeness in commercial use,https://legiscan.com/AR/bill/HB1071/2025
+New York,NY,fraud_likeness_other,S 8420,2025,Ads must disclose synthetic performers,https://legiscan.com/NY/bill/S08420/2025
+New York,NY,fraud_likeness_other,S 8391,2025,Post-death rights to a performer's digital replica,https://legiscan.com/NY/bill/S08391/2025
+Maryland,MD,fraud_likeness_other,SB 8,2026,"Identity fraud using AI or deepfakes; up to 5 years and $10,000",https://legiscan.com/MD/bill/SB8/2026
+Louisiana,LA,fraud_likeness_other,SB 346 / SB 347,2026,Deepfakes used against K-12 students; campus safety rules,https://legiscan.com/LA/bill/SB346/2026

@@ -1,0 +1,64 @@
+{
+  "title": "State AI Laws and Bills by State, 2025-2026 (startbusinessbystate.com)",
+  "description": "<p>Which state AI laws reach ordinary businesses: bill and law counts by state and topic, plus law-level tables for chatbots, hiring, deepfakes, pricing algorithms and health care.</p><p>State legislatures filed 1,351 AI bills in the 2025 and 2026 sessions, and 149 became law in 38 states. This dataset counts bills and laws by state and topic and lists, in plain language, the laws most likely to reach an ordinary business: chatbot disclosure, AI in hiring, deepfakes, pricing and rent algorithms, and AI in health care.</p><p>As of: LegiScan pulled September 29, 2026. Hub and hiring tables updated October 1, 2026 (California SB 947 and SB 951 signed September 30, 2026).</p><p>Main page: <a href=\"https://startbusinessbystate.com/ai-laws-by-state/\">https://startbusinessbystate.com/ai-laws-by-state/</a></p>",
+  "creators": [
+    {
+      "name": "StartBusinessByState",
+      "affiliation": "startbusinessbystate.com"
+    }
+  ],
+  "upload_type": "dataset",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "artificial intelligence",
+    "AI law",
+    "state legislation",
+    "LegiScan",
+    "chatbots",
+    "deepfakes",
+    "algorithmic pricing",
+    "AI hiring",
+    "health care AI",
+    "small business"
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-10-02",
+  "related_identifiers": [
+    {
+      "identifier": "https://startbusinessbystate.com/ai-laws-by-state/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://startbusinessbystate.com/ai-chatbot-laws-by-state/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://startbusinessbystate.com/ai-hiring-laws-by-state/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://startbusinessbystate.com/deepfake-laws-by-state/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://startbusinessbystate.com/algorithmic-pricing-laws-by-state/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://startbusinessbystate.com/ai-healthcare-laws-by-state/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    }
+  ]
+}

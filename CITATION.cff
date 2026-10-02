@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "State AI Laws and Bills by State, 2025-2026 (startbusinessbystate.com)"
+abstract: "Which state AI laws reach ordinary businesses: bill and law counts by state and topic, plus law-level tables for chatbots, hiring, deepfakes, pricing algorithms and health care."
+authors:
+  - name: "StartBusinessByState"
+version: "1.0.0"
+date-released: "2026-10-02"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/jameyriley46-ux/startbusinessbystate-ai-laws-by-state"
+url: "https://startbusinessbystate.com/ai-laws-by-state/"
+keywords:
+  - "artificial intelligence"
+  - "AI law"
+  - "state legislation"
+  - "LegiScan"
+  - "chatbots"
+  - "deepfakes"
+  - "algorithmic pricing"
+  - "AI hiring"
+  - "health care AI"
+  - "small business"
+preferred-citation:
+  type: data
+  title: "State AI Laws and Bills by State, 2025-2026 (startbusinessbystate.com)"
+  authors:
+    - name: "StartBusinessByState"
+  publisher:
+    name: "startbusinessbystate.com"
+  version: "1.0.0"
+  date-released: "2026-10-02"
+  year: 2026
+  license: "CC-BY-4.0"
+  repository-code: "https://github.com/jameyriley46-ux/startbusinessbystate-ai-laws-by-state"
+  url: "https://github.com/jameyriley46-ux/startbusinessbystate-ai-laws-by-state"
